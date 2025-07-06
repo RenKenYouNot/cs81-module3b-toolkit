@@ -19,6 +19,10 @@ function isOdd(n) {
 function subtractFive(n) {
   return n - 5;
 }
+// Function to multiply a number by 10
+function multiplyByTen(n) {
+  return n * 10;
+}
 
 
 
