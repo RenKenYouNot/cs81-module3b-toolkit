@@ -13,3 +13,7 @@ Actual Output: false
 Results for isOdd(n):
 Input: n = 5
 Actual Output: true
+
+Results for subtractFive(n):
+Input: n = 5
+Actual Output: 0
