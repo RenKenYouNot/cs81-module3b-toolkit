@@ -17,3 +17,7 @@ Actual Output: true
 Results for subtractFive(n):
 Input: n = 5
 Actual Output: 0
+
+Results for multiplyByTen(n):
+Input: n = 5
+Actual Output: 50
