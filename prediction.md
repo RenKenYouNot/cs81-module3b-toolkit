@@ -17,3 +17,7 @@ Predicted Output: true because the remainder will be 1.
 Predictions for subtractFive(n):
 Input: n = 5
 Predicted Output: 0 because subtractFive(n) subtracts 5 from n.
+
+Predictions for multiplyByTen(n):
+Input: n = 5
+Predicted Output: 50 because multiplyByTen(n) multiplies n by 10.
