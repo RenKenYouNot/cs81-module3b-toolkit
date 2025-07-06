@@ -7,9 +7,14 @@ function double(n) {
 function square(n) {
   return n * n;
 }
-// Function to check if value is even
+// Function to check if the remainder is even
 function isEven(n) {
-  return n % 2 === 0; // This checks if the number 'n' is even
+  return n % 2 === 0; // This returns true if the remainder of 'n' is even
 }
+// Function to check if the remainder is odd
+function isOdd(n) {
+  return n % 2 !== 0; // This returns true if the remainder of 'n' is odd
+}
+
 
 
