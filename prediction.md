@@ -9,3 +9,7 @@ Predicted Output: 25 because square(n) multiplies the input by itself.
 Predictions for isEven(n):
 Input: n = 5
 Predicted Output: false because the remainder will be 1.
+
+Predictions for isOdd(n):
+Input: n = 5
+Predicted Output: true because the remainder will be 1.
