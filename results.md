@@ -5,3 +5,7 @@ Actual Output: 10
 Results for square(n):
 Input: n = 5
 Actual Output: 25
+
+Results for isEven(n):
+Input: n = 5
+Actual Output: false
