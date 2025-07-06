@@ -15,6 +15,11 @@ function isEven(n) {
 function isOdd(n) {
   return n % 2 !== 0; // This returns true if the remainder of 'n' is odd
 }
+// Function to subtract 5 from a number
+function subtractFive(n) {
+  return n - 5;
+}
+
 
 
 
