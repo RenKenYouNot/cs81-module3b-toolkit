@@ -9,3 +9,7 @@ Actual Output: 25
 Results for isEven(n):
 Input: n = 5
 Actual Output: false
+
+Results for isOdd(n):
+Input: n = 5
+Actual Output: true
